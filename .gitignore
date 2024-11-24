@@ -1,0 +1,7 @@
+/.idea/
+/tmp/
+/routes.go
+
+private.pem
+public.pem
+.env
