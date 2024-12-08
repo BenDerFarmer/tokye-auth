@@ -1,6 +1,7 @@
 # Tokye Auth Server
 
-The **Tokye Auth Server** is a robust and lightweight authentication server designed for the [Tokye](https://github.com/ChaotenHG/tokye-js) project. It provides a seamless and secure user authentication experience, leveraging modern standards such as passkeys and passwordless authentication.
+The **Tokye Auth Server** is a robust and lightweight authentication server designed for the [Tokye](https://github.com/BenDerFarmer/tokye-js) project.
+It provides a seamless and secure user authentication experience, leveraging modern standards such as passkeys and passwordless authentication.
 
 This service utilizes **JSON Web Tokens (JWT)** to ensure secure and easy-to-verify authentication, making it compatible across various backend systems.
 
@@ -31,7 +32,7 @@ To get started with the Tokye Auth Server, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ChaotenHG/tokye-auth-server.git
+   git clone https://github.com/BenDerFarmer/tokye-auth-server.git
    cd tokye-auth-server
    ```
 
@@ -47,7 +48,7 @@ To get started with the Tokye Auth Server, follow the steps below:
    ./tokye-auth-server
    ```
 
-4. Integrate it with the [Tokye Client](https://github.com/ChaotenHG/tokye-js) or your existing applications.
+4. Integrate it with the [Tokye Client](https://github.com/BenDerFarmer/tokye-js) or your existing applications.
 
 ## Why Tokye Auth Server?
 
